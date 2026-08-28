@@ -4,7 +4,21 @@ Google × The Behavioural Architects의 「Decoding Decisions」(메시미들) �
 
 상품 하나든, 상품군 전체든, 사업 전체든 — 상세페이지 주소나 소개 자료만 던지면 스킬이 먼저 읽고 필요한 것만 물어봅니다.
 
-## 설치 (Claude Code에서 두 줄)
+## 설치
+
+Claude Code를 열고 이렇게 말하면 끝입니다. (설치 명령 실행 여부를 물으면 허용을 눌러주세요.)
+
+```
+https://github.com/seon-biz/messy-middle 이 스킬 설치해줘
+```
+
+터미널에서 직접 설치하려면:
+
+```bash
+npx skills add seon-biz/messy-middle
+```
+
+Claude Code 공식 플러그인 방식(버전 관리, `/plugin` UI에서 켜고 끄기)을 원하면 Claude Code 입력창에 아래 두 줄을 순서대로 입력합니다.
 
 ```
 /plugin marketplace add seon-biz/messy-middle
