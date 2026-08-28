@@ -1,0 +1,9 @@
+{
+  "name": "messy-middle",
+  "version": "1.0.0",
+  "description": "메시미들(Messy Middle) 프레임워크 기반 비즈니스 진단·기획·전략 덱 생성 스킬",
+  "author": {
+    "name": "seoncoder",
+    "url": "https://seonbiz.com"
+  }
+}

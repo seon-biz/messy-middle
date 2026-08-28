@@ -1,0 +1,16 @@
+{
+  "name": "seoncoder",
+  "owner": {
+    "name": "seoncoder",
+    "url": "https://seonbiz.com",
+    "email": "cobaltblue872@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "messy-middle",
+      "source": "./plugins/messy-middle",
+      "description": "구글 「Decoding Decisions」 메시미들 프레임워크로 비즈니스를 진단하고 개선 기획서·전략 덱을 만드는 스킬",
+      "version": "1.0.0"
+    }
+  ]
+}
