@@ -9,7 +9,7 @@ Google × The Behavioural Architects의 「Decoding Decisions」(메시미들) �
 Claude Code를 열고 이렇게 말하면 끝입니다. (설치 명령 실행 여부를 물으면 허용을 눌러주세요.)
 
 ```
-https://github.com/seon-biz/messy-middle 이 스킬 설치해줘
+https://github.com/seon-biz/messy-middle 이 스킬 설치하고 사용법 알려줘
 ```
 
 터미널에서 직접 설치하려면:
